@@ -1,0 +1,10 @@
+{
+  "provider": "https://bsc-dataseed.binance.org",
+  "contractAddress": "0x2eb5eCC40E403B12ee4428D70fDDF34e2C2c27B0",
+  "fromBlock": "4258888",
+  "toBlock": "4657200",
+  "blocksPerBatch": 5000,
+  "delay": 100,
+  "format": "both",
+  "checkIfContract": "yes"
+}
