@@ -1,6 +1,6 @@
 # Token Snapshot: Create BEP20 Token Snapshot
 
-This command-line utility creates a snapshot of any BEP20 token in JSON or CSV format. Use your own fully synced Binance node.
+This command-line utility creates a snapshot of any BEP20 token in JSON or CSV format. 
 
 - Works without a local Binance Smart Chain node.
 - Automatically resumes the next time upon failure.
